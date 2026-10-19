@@ -34,6 +34,7 @@ Each **Try** period is time to investigate before the instructor shows the solut
 
 ## Case files
 
+
 | File | What it controls |
 | --- | --- |
 | `expo/expo.c` | The Expo program's behavior |
